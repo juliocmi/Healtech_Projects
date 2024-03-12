@@ -1,3 +1,3 @@
-# Healtech_Projects
+# Healthtech_Projects
 
 Próximamente...
